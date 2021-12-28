@@ -1,1 +1,6 @@
-face/data/
+# logs and model checkpoints
+face/logs
+face/models
+# cache
+face/__pycache__
+face/previous_models.py
