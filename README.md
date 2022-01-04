@@ -6,6 +6,7 @@ Small thing that uses webcam.
     - Gets Gender and Age
 
 TODO:
+
     - Use tf datasets to load data
     - Train a better gender model
     - Train an age model
