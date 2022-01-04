@@ -1,9 +1,11 @@
 # face_detection
 
-Watches webcam
+Small thing that uses webcam.
 
-finds faces
+    - Identifies face
+    - Gets Gender and Age
 
-returns bounding boxes, gender, and maybe more
-
-test
+TODO:
+    - Use tf datasets to load data
+    - Train a better gender model
+    - Train an age model
