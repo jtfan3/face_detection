@@ -1,6 +1,7 @@
 # logs and model checkpoints
-face/logs
-face/models
+gender/logs
+gender/models
 # cache
-face/__pycache__
-face/previous_models.py
+gender/__pycache__
+# others
+gender/previous_models.py
