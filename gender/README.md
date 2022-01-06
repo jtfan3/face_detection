@@ -2,7 +2,7 @@
 
 Python code to sort UTK data into following file structure
 
-'''
+```
 
 gender
     |__ 0
@@ -14,6 +14,6 @@ gender
         |__some_female_1.jpg
         |__some_female_2.jpg
 
-'''
+```
 
 ## train_gender.ipynb
