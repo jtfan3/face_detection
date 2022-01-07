@@ -3,5 +3,8 @@ gender/logs
 gender/models
 # cache
 gender/__pycache__
+*__pycache__*
+*.pyc
+*.pyo
 # others
 gender/previous_models.py
