@@ -17,13 +17,15 @@ gender
 ```
 
 ### Training the gender model
-Code for loading the data into tf dataset can be found at in trian_gender.ipynb
+Code for loading the data into tf dataset can be found at in `trian_gender.ipynb`
 
-configurations for the model specs can be found in gender_config.py
+configurations for the model specs can be found in `gender_config.py`
+
     - data paths
     - image shape, rgb
-    - dataset (UTK faces https://susanqq.github.io/UTKFace/)
 
-Results for training the model
+
+Results for training the model, which uses UTK faces (https://susanqq.github.io/UTKFace/)
+
     - utilizes 85%, 15% of data for train, val
     - achieved accuracy of roughly 93% for both trian/val
