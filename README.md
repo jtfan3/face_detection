@@ -15,6 +15,6 @@ TODO:
 - [ ] Load with tf dataset
 - [ ] Train an emotion model
 - [ ] Add emotion classification to webcam
-- [ ] Fine tune models
+- [ ] Fine tune models, try new datasets?
 - [ ] Export the webcam thing in some sort of format
 
