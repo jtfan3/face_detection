@@ -3,6 +3,8 @@ gender/logs
 gender/models
 # cache
 gender/__pycache__
+face_detector/__pycache__
+face_detector/modules/__pycache__
 *__pycache__*
 *.pyc
 *.pyo
