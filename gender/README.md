@@ -1,5 +1,5 @@
-## sort_gender.ipynb
-
+## Sorting gender data
+Code found in `sort_gender.ipynb`
 Python code to sort UTK data into following file structure
 
 ```
@@ -16,4 +16,16 @@ gender
 
 ```
 
-## train_gender.ipynb
+### Training the gender model
+Code for loading the data into tf dataset can be found at in `trian_gender.ipynb`
+
+configurations for the model specs can be found in `gender_config.py`
+
+    - data paths
+    - image shape, rgb
+
+
+Results for training the model, which uses UTK faces (https://susanqq.github.io/UTKFace/)
+
+    - utilizes 85%, 15% of data for train, val
+    - achieved accuracy of roughly 93% for both trian/val
