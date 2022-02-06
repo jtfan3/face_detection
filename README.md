@@ -1,6 +1,7 @@
 # face_detection
 
 Small python project that uses webcams to:
+
     - Detect faces
     - Detect Age
     - Detect Emotion
